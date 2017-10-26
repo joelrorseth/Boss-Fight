@@ -1,0 +1,17 @@
+/Users/Joel/Documents/University/60-377/A4-JoelRorseth,MichaelBianchi,MichaelMelanson,BradGyemi 1/Temp/bin/Debug/UnityEngine.dll
+/Users/Joel/Documents/University/60-377/A4-JoelRorseth,MichaelBianchi,MichaelMelanson,BradGyemi 1/Temp/bin/Debug/UnityEditor.dll
+/Users/Joel/Documents/University/60-377/A4-JoelRorseth,MichaelBianchi,MichaelMelanson,BradGyemi 1/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Joel/Documents/University/60-377/A4-JoelRorseth,MichaelBianchi,MichaelMelanson,BradGyemi 1/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Joel/Documents/University/60-377/A4-JoelRorseth,MichaelBianchi,MichaelMelanson,BradGyemi 1/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/Joel/Documents/University/60-377/A4-JoelRorseth,MichaelBianchi,MichaelMelanson,BradGyemi 1/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Joel/Documents/University/60-377/A4-JoelRorseth,MichaelBianchi,MichaelMelanson,BradGyemi 1/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/Joel/Documents/University/60-377/A4-JoelRorseth,MichaelBianchi,MichaelMelanson,BradGyemi 1/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/Joel/Documents/University/60-377/A4-JoelRorseth,MichaelBianchi,MichaelMelanson,BradGyemi 1/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Joel/Documents/University/60-377/A4-JoelRorseth,MichaelBianchi,MichaelMelanson,BradGyemi 1/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Joel/Documents/University/60-377/A4-JoelRorseth,MichaelBianchi,MichaelMelanson,BradGyemi 1/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Joel/Documents/University/60-377/A4-JoelRorseth,MichaelBianchi,MichaelMelanson,BradGyemi 1/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Joel/Documents/University/60-377/A4-JoelRorseth,MichaelBianchi,MichaelMelanson,BradGyemi 1/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Joel/Documents/University/60-377/A4-JoelRorseth,MichaelBianchi,MichaelMelanson,BradGyemi 1/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Joel/Documents/University/60-377/A4-JoelRorseth,MichaelBianchi,MichaelMelanson,BradGyemi 1/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Joel/Documents/University/60-377/A4-JoelRorseth,MichaelBianchi,MichaelMelanson,BradGyemi 1/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Joel/Documents/University/60-377/A4-JoelRorseth,MichaelBianchi,MichaelMelanson,BradGyemi 1/Temp/bin/Debug/Mono.Cecil.Mdb.dll
